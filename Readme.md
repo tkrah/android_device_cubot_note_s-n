@@ -18,7 +18,7 @@ Bug	tracker
 - [x] import contacts from sim card
 - [x] Some apps fast crash
 - [x] Blackscreen after unlock
-- [x] FM Radio (with patch)
+- [x] FM Radio
 - [ ] ril is not stable
 - [ ] GPS with device only (with patch and ramdisk changes)
 - [ ] Video recording inverted color (workarround: third party camera)
