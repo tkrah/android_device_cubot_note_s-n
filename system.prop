@@ -1,8 +1,8 @@
 # system.prop
 # NOTE_S
 
-# navbar  0 or 1 disable/enable 
-qemu.hw.mainkeys=0
+# navbar  0 or 1 enable/disable 
+qemu.hw.mainkeys=1
 
 # Low-ram optimizations
 ro.config.low_ram=true
