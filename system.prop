@@ -4,10 +4,6 @@
 # navbar  0 or 1 enable/disable 
 qemu.hw.mainkeys=1
 
-# Low-ram optimizations
-ro.config.low_ram=true
-persist.sys.force_highendgfx=true
-
 rild.libpath=mtk-ril.so
 rild.libargs=-d /dev/ttyC0
 
