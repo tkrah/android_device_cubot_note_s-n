@@ -62,6 +62,9 @@ BOARD_HAS_MTK_HARDWARE := true
 BOARD_USES_MTK_HARDWARE := true
 MTK_HARDWARE := true
 
+# GPS
+BOARD_MEDIATEK_USES_GPS := true
+
 # RIL 
 BOARD_RIL_CLASS := ../../../device/CUBOT/NOTE_S/ril/
 
